@@ -1,4 +1,4 @@
-def cift_mi(sayi):
-    return sayi % 2 == 0
+def selamla(isim):
+    print("Merhaba " + isim + ", ödevine başarılar!")
 
-print("8 çift mi?", cift_mi(8))
+selamla("Umut")
