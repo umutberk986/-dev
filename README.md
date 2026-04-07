@@ -1,4 +1,4 @@
-def selamla(isim):
-    print("Merhaba " + isim + ", ödevine başarılar!")
-
-selamla("Umut")
+vize = 60
+final = 80
+ortalama = (vize * 0.4) + (final * 0.6)
+print("Ders ortalaması:", ortalama)
