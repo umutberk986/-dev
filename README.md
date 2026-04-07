@@ -1,3 +1,2 @@
-sayilar = [5, 10, 15, 20]
-toplam = sum(sayilar)
-print("Listenin toplamı:", toplam)
+for i in range(1, 6):
+    print(f"Bu {i}. satir")
